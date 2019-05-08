@@ -1,0 +1,7 @@
+C:\Users\Alyne_Soares\source\repos\StudyApp\StudyApp\obj\Debug\StudyApp.csprojAssemblyReference.cache
+C:\Users\Alyne_Soares\source\repos\StudyApp\StudyApp\obj\Debug\StudyApp.csproj.CoreCompileInputs.cache
+C:\Users\Alyne_Soares\source\repos\StudyApp\StudyApp\bin\Debug\StudyApp.exe.config
+C:\Users\Alyne_Soares\source\repos\StudyApp\StudyApp\bin\Debug\StudyApp.exe
+C:\Users\Alyne_Soares\source\repos\StudyApp\StudyApp\bin\Debug\StudyApp.pdb
+C:\Users\Alyne_Soares\source\repos\StudyApp\StudyApp\obj\Debug\StudyApp.exe
+C:\Users\Alyne_Soares\source\repos\StudyApp\StudyApp\obj\Debug\StudyApp.pdb
